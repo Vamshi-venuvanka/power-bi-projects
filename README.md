@@ -26,5 +26,5 @@ Crucial Business Metrics:
 ✔ Differentiated sales for Direct, Retailer, Distributors, and Consumers.
 
 
-Interactive Report link:https://app.powerbi.com/groups/me/reports/77f317ca-1414-41a9-b19b-b0872b4edc52/ReportSection?experience=power-bi
-
+Interactive Report link:[https://app.powerbi.com/groups/me/reports/77f317ca-1414-41a9-b19b-b0872b4edc52/ReportSection?experience=power-bi
+](https://app.powerbi.com/groups/me/reports/29c8e688-eaac-4fd2-af91-25156509d85f/ReportSection2933a9f3dd51e6061ca5?experience=power-bi)
