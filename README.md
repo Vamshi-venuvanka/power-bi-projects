@@ -1,7 +1,4 @@
 
-
-
-
 # Sales Insights 360 – Manufacturing Analytics Dashboard
 
 **Domain:** Manufacturing | **Project:** Finance, Sales, Marketing & Supply Chain Insights  
@@ -42,6 +39,9 @@ I contributed to creating **SQL-based insights** and developing a **comprehensiv
 
 ---
 
-**Tech Stack:** SQL, Power BI Desktop, DAX, M Language, Excel, Power BI Service
+**Tech Stack:**
+[![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=flat-square&logo=sql&logoColor=white)](https://www.microsoft.com/sql)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 
 Interactive Report link:https://app.powerbi.com/view?r=eyJrIjoiYzYwMTg5OTUtMTA3MC00MzY5LThiMTYtYjRiOTA5ZDM3YzdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
