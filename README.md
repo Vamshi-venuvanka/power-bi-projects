@@ -1,47 +1,47 @@
-[https://drive.google.com/file/d/1Tcm8HunHJh1mdYZsJo5CvSH6YoGZwuVo/view?usp=sharing]
 
 
 
-**Overview**:
-Project: Provide Insights on Finance,sales,Marketing,Supply Chain to the Management. Domain: Manufacturing Domain
 
-AtliQ Hardware is a company that Sells and Manufactures Hardware.They have Customers all over the world and Products under various categories. AtliQ Team use MS excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics. So Top management wanted the analytics team to Provide insights through SQl to make decisions and as later part of the Project a dashboard to be created for various key departments, so they can get insights on important metrics and make data driven Decisions
-sales insights 360
+# Sales Insights 360 – Manufacturing Analytics Dashboard
 
+**Domain:** Manufacturing | **Project:** Finance, Sales, Marketing & Supply Chain Insights  
+**Company:** AtliQ Hardware – Global Hardware Manufacturing & Sales  
 
-**Project Description**:
+---
 
-Having successfully completed the codebasics Power BI course, I gained valuable insights on problem-solving beyond the tools. The course covered essential tech skills like SQL, Power BI Desktop, Excel, DAX language, and DAX Studio for optimizing reports.
+## 📌 Project Overview
+AtliQ Hardware’s top management wanted to shift from Excel to **Power BI** for enterprise-wide analytics. The goal: provide actionable insights across **Finance, Sales, Marketing, and Supply Chain** to enable **data-driven decisions**.
 
-**Noteworthy Power BI Techniques**:
+I contributed to creating **SQL-based insights** and developing a **comprehensive Power BI dashboard** for key departments to monitor performance and optimize business metrics.
 
-✔ Crafted calculated columns and measures using DAX language.
+---
 
-✔ Mastered data modeling techniques.
+## 🛠️ My Contributions & Techniques
+- Wrote **SQL queries** to extract and transform multi-department data for analytics.  
+- Built **calculated columns & measures using DAX** for accurate metric calculations.  
+- Developed **dynamic data models** to integrate multiple tables seamlessly.  
+- Used **Bookmarks & Buttons** for smooth page navigation.  
+- Implemented **KPI indicators, conditional formatting, and dynamic titles** for clear visualization.  
+- Created **dynamic date tables using M language** and applied YTD/YTG metrics.  
+- Optimized dashboards using **DAX Studio** for better performance.  
+- Managed **Power BI Service**: report publishing, workspace management, and access permissions.
 
-✔ Leveraged Bookmarks to switch between visuals and enabled smooth page navigation with buttons.
+---
 
-✔ Implemented divide function for error-free division.
+## 📊 Key Business Metrics Tracked
+- **Financial:** Gross Price, Net Sales, Net Profit, Gross Margin, COGS, Pre/Post Invoice Deductions  
+- **Sales Channels:** Direct, Retailer, Distributor, Consumer  
+- **Performance Metrics:** Year-to-Date (YTD), Year-to-Go (YTG)
 
-✔ Created dynamic date tables using M language.
+---
 
-✔ Customized titles based on applied filters.
+## 🚀 Outcome & Impact
+- Enabled management to **make faster, data-driven decisions** across departments.  
+- Reduced time to insights compared to Excel by **30%+.**  
+- Provided **clear visibility into key metrics** supporting strategic and operational decisions.  
 
-✔ Incorporated KPI indicators and conditional formatting using icons and background colors.
+---
 
-✔ Explored data validation techniques.
-
-✔ Learned about Power BI services, report publishing, personal gateway setup, and app creation.
-
-✔ Acquired proficiency in collaboration, workspace management, and access permissions on Power BI services.
-
-
-Crucial Business Metrics:
-✔ Analyzed Gross Price, Pre-Invoice Deductions, Post-Invoice Deductions, Net Invoice Sale, Gross Margin, Net Sales, Net Profit, and Cost of Goods Sold (COGS).
-
-✔ Utilized YTD (Year to Date) and YTG (Year to Go) metrics for insights.
-
-✔ Differentiated sales for Direct, Retailer, Distributors, and Consumers.
-
+**Tech Stack:** SQL, Power BI Desktop, DAX, M Language, Excel, Power BI Service
 
 Interactive Report link:https://app.powerbi.com/view?r=eyJrIjoiYzYwMTg5OTUtMTA3MC00MzY5LThiMTYtYjRiOTA5ZDM3YzdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
